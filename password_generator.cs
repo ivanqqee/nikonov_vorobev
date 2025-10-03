@@ -5,7 +5,7 @@ class PasswordGenerator
     static void Main()
     {
         Console.WriteLine("Генератор паролей (версия 1.0)");
-        Console.WriteLine("Пароль: abc123");
+        Console.WriteLine("Пароль: Abc123"); // иа чо хакеееерр???
     }
 }
 
